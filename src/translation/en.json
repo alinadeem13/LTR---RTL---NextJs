@@ -4,5 +4,6 @@
   "settings": "Settings",
   "welcome": "Welcome to your dashboard",
   "description": "This layout switches the sidebar position and text alignment automatically when you toggle RTL/LTR or change the language.",
-  "toggleRtl": "Toggle RTL"
+  "toggleRtl": "Toggle RTL",
+  "toggleLanguage": "Toggle Language"
 }
